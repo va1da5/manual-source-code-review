@@ -377,6 +377,7 @@ redirect\(\s*@RequestParam\(.*
 ### Other Interesting Stuff
 
 ```regex
+\bRandom\(
 getPropert(y|ies)\s*\(
 getSession\s*\(
 \bHTTPCookie\b
